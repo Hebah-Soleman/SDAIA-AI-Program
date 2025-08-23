@@ -1,0 +1,16 @@
+![Banner](Logos/sdaia.jpg)
+
+# SDAIA Artificial Intelligence Summer Program
+
+This is the base Repository for the SDAIA AI Summer Program.
+
+## Program Overview
+
+The SDAIA AI Summer Program, organized by the SDAIA in collaboration with the University of Oxford, is an eight-week program designed to equip participants with advanced knowledge and hands-on experience in AI. The program begins with online learning modules and concludes with in-person training at the University of Oxford, offering a unique blend of theory and application. Participants will work on projects in computer vision, natural language processing, and generative models, while gaining proficiency in leading AI frameworks and tools such as TensorFlow, PyTorch, Hugging Face, and YOLO. By the end of the bootcamp, students will have developed the skills to design, implement, and deploy innovative AI solutions for real-world challenges.
+
+## Content
+### Week 1: Programming foundation for AI 
+| Topic                                            | Instructor            | Lectures                                    | Labs                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+| ------------------------------------------------ | --------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |   
+| **Day 1:** Python Programming | Prof. Naeemullah Khan | [Slides](https://github.com/Hebah-Soleman/SDAIA-AI-Program/blob/main/Pyhton%20Programming%20foundation%20for%20AI%20/Lectures/Day1/Python-Programming.pdf)          | [Lab 1](https://github.com/Hebah-Soleman/SDAIA-AI-Program/blob/main/Pyhton%20Programming%20foundation%20for%20AI%20/Labs/Day1/Intro_To_Python.ipynb)
+
